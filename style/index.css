@@ -1,0 +1,38 @@
+body {
+    background-color: #F9E2AF;
+    font-family: 'Gill Sans', sans-serif;
+}
+
+.title {
+    text-align: center;
+    color: #AF7137;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #AF7137;
+    font-weight: bold;
+}
+
+a:hover {
+   color: #FFEBB4; 
+}
+
+a:visited {
+    color: purple;
+}
+
