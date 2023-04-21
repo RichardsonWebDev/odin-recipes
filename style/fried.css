@@ -3,6 +3,15 @@ body {
     font-family: 'Gill Sans', sans-serif;
 }
 
+.title {
+    text-align: center;
+}
+
 .title, .heading {
     color:#AF7137;;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
 }
